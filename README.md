@@ -7,3 +7,7 @@ The aim of this project is to implement a genetic algorithm to identify the best
 ## Genetic Algorithm (Brief Explanation)
 
 A genetic algorithm is...
+
+## Licence
+
+No licence assigned.
